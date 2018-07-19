@@ -1,0 +1,67 @@
+{
+  "blogCategories": [
+    {
+      "id": "200",
+      "title": "DEMO News",
+      "uri": "blog/categories/DEMO-news"
+    }
+  ],
+  "cardImage": "http://someurl/images/blog-images/google-measurement-partner-program-membership/How_DEMO_s_partnerships_work_card.png",
+  "entryId": "12503",
+  "metaDescription": "DEMO is pleased to announce its membership in Google’s new Measurement Partner Program - find out what this means, here.",
+  "metaTitle": null,
+  "postAuthor": "148",
+  "postBody": [
+    {
+      "textSection": {
+        "colorScheme": "scheme-white",
+        "isNoFollow": false,
+        "text": "<p>DEMO is pleased to announce our membership of Google’s Measurement Partner Program, a new effort to unite Google’s various partnerships together and provide advertisers with a vetted list of verified partners to work with.</p>\n<p>Google’s Measurement Partners Program certifies that “partners are recognized leaders within their focus areas and provide solutions widely used by the industry.” Furthermore, “they meet rigorous standards for accuracy and use reliable methodologies to measure KPIs that matter for marketers.”</p>\n<p>So far, membership includes 23 partners from seven different categories, including viewability, brand and sales lift, and, of course, mobile attribution. Google’s Measurement Partners Program is made up of quality vendors that provide accuracy, insight, and reliability. With it, Google provides advertisers with the ability to see certified partners that can support them with whatever they need. </p>\n<p>Over the course of our long-standing partnership with Google, we’ve built a strong relationship based on the level of support and innovation we offer to our clients. As the first in our industry to create a fraud rejection tool, we’ve been committed to providing high levels of accuracy with our measurement platform since the very beginning.</p>"
+      }
+    },
+    {
+      "imageSection": {
+        "caption": "If you want to know how we work with our partners, click the image above.",
+        "colorScheme": "scheme-white",
+        "image": "http://someurl/images/blog-images/google-measurement-partner-program-membership/How_DEMO_s_partnerships_work_teaser.png",
+        "imageLinkEntry": "http://someurl/blog/how-we-make-our-partnerships-really-work",
+        "imageSize": null
+      }
+    },
+    {
+      "textSection": {
+        "colorScheme": "scheme-white",
+        "isNoFollow": false,
+        "text": "<p>“It’s great to see that Google and DEMO can continue to achieve great things together under this new partnership” said Reggie Singh, DEMO’s Global Head of Partnerships, “We’re proud to be part of the Google Measurement Partner Program and we’re looking forward to see what’s to come next.”</p>\n<p>Marius Misiunas, DEMO’s Integrations Team Lead, had this to say: \"We're happy to be a part of the Google Measurement Partner Program. It’s a great next step in our collaboration, bringing both sides even closer together. We are sure this will help us offer even better services to our mutual clients.\"</p>"
+      }
+    },
+    {
+      "imageSection": {
+        "caption": "Look for this badge to ensure confirmation of certified Google Measurement Partner memberships.",
+        "colorScheme": "scheme-white",
+        "image": "http://someurl/images/blog-images/google-measurement-partner-program-membership/google_measurement_partner_badge_large_180711_133401.png",
+        "imageLinkEntry": null,
+        "imageSize": null
+      }
+    },
+    {
+      "marketoFormSection": {
+        "colorScheme": "scheme-dark-blue",
+        "marketoFormId": {
+          "label": "EN Blog Subscription form",
+          "selected": true,
+          "value": "1474"
+        },
+        "sectionByline": "Sign up to our mailing list below",
+        "sectionHeading": "Want to get updates like this as they happen?",
+        "successHeading": "Success!",
+        "successMessage": "Keep your eyes on your inbox for more!"
+      }
+    }
+  ],
+  "slug": "google-measurement-partner-program-membership",
+  "teaser": "DEMO is pleased to announce its membership in Google’s new Measurement Partner Program, honored by Google’s ongoing commitment to attribution standards within the industry.",
+  "teaserImage": "http://someurl/images/blog-images/google-measurement-partner-program-membership/How_DEMO_s_partnerships_work_teaser-1.png",
+  "title": "Google certifies DEMO as a Google Measurement Partner",
+  "topics": []
+}
